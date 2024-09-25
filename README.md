@@ -13,3 +13,15 @@ To run on Firefox:
 ```
 web-ext run
 ```
+
+### Debugging in Firefox
+
+Go to
+
+```
+about:debugging#/runtime/this-firefox
+```
+
+and find this extension. Then click "inspect"
+
+![plugins debugging](images/documentation/FirefoxDebugging.jpg)
